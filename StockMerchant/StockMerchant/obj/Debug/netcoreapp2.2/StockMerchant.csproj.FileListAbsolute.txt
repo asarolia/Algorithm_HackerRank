@@ -1,0 +1,11 @@
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\bin\Debug\netcoreapp2.2\StockMerchant.deps.json
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\bin\Debug\netcoreapp2.2\StockMerchant.runtimeconfig.json
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\bin\Debug\netcoreapp2.2\StockMerchant.runtimeconfig.dev.json
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\bin\Debug\netcoreapp2.2\StockMerchant.dll
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\bin\Debug\netcoreapp2.2\StockMerchant.pdb
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.csprojAssemblyReference.cache
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.csproj.CoreCompileInputs.cache
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.AssemblyInfoInputs.cache
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.AssemblyInfo.cs
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.dll
+D:\github\Algorithm_HackerRank\StockMerchant\StockMerchant\obj\Debug\netcoreapp2.2\StockMerchant.pdb
